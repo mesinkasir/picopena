@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# PICO PENA WEB TEMPLATE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/picopena/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+simple clean pena pico website template
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEjawbPBRGsAh3Okw_5EeKvVbPlB5G3t0AQunA_dNyIos0YnL_4Z_a2u2IqImgqO4HYODGBeruFxZOU8w_IVD_TlAXJ0z2np4-IBFwatqLiJ4wuJHX8uh2y8hOkLuqoiE6KwTDRsnacgvC3Bat8_gZW3i-5MdeMmK_8Onr0BdXorx0KvUECKaD1ge9ExVw=s1349)
 
-### Markdown
+Simple clean design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demo 🚀 : [https://axcora.my.id/pena/](https://axcora.my.id/pena/)
 
-```markdown
-Syntax highlighted code block
+Documentation 💻 : 
+[https://www.hockeycomputindo.com/2022/03/pembuatan-website-pico-pena-blog-free.html](https://www.hockeycomputindo.com/2022/03/pembuatan-website-pico-pena-blog-free.html)
 
-# Header 1
-## Header 2
-### Header 3
+---------------
 
-- Bulleted
-- List
+Recipes :
++ pico
++ bootstrap
++ markdown
++ auto seo
 
-1. Numbered
-2. List
+---------------------------
 
-**Bold** and _Italic_ and `Code` text
+![pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEgiRQNMaTsNrCYl-7gh7J3amjaqVjkBEJSp0KyQOCk8c9hJhXEP2ZsoX_4eBayRnDZ5JubTeuiehz9N6SDfUDcR7QJBU8FYxgfzWJ4XkPrzk2eKIF7WZgGWN_oLxHoFjlyzSr9nG_H7DR1hIZA7JCVD_sQ7kzu6jJyG-FueRpwpqZFMKJUOgr6QN368RQ=s1349)
 
-[Link](url) and ![Image](src)
-```
+Blog page list
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![pico themes template](https://blogger.googleusercontent.com/img/a/AVvXsEjA7N0ybGeyw17tplb03wSZZTaO7oR9b2ieL8-ugH7p2x_qaMam0WPsnw2g1JFb5x2zJJ3Fzk0Cjs0WPs0KPkr_TfyMYcTZDosNvJzHe_UjvdIsSc776OC4tktbXn61tfbNkQbbFXOw6yR9GYThmF27ELFJPOYPSgqAojd6SYMhqVAy5UTjWePEtFMorQ=s1366)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/picopena/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Backend pico edit
 
-### Support or Contact
+---------------------------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Installation 
++ [Download Pico](https://github.com/picocms/Pico)
+
+### Template
++ [Download pena themes](https://github.com/mesinkasir/picopena)
+
+### Plugin :
++ [pico_edit](https://github.com/blocknotes/pico_edit)
++ [pagination](https://github.com/rewdy/Pico-Pagination)
+
+-----------------
+
+### Work
+
++ Copy and paste pena template folder to pico/themes
++ Copy and paste all file plugin folder pico_edit and 10-pagination to pico/plugins
+
+---------------
+
+### Configure
+
++ open pico/config folder rename config.yml.template to config.yml
++ open pico/config/config.yml and change theme:default to theme: pena 
++ open pico/config/config.yml and insert pages_order_by: date
++ open pico/config/config.yml and insert pages_order: desc
++ open pico/config/config.yml and insert pagination_limit: 5
+
+
+-------------------
+
+Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+    BANK CENTRAL ASIA
+    ACCOUNT NO : 0181884109
+    ACCOUNT NAME : SUCI CHANIFAH
+    IBAN/SWIFT CODE : CENAIDJA
+
+
