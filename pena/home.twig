@@ -76,17 +76,7 @@
 
 
 	<footer class="p-3 border-top">
-						{% for icon, link in meta.social %}
-						
-								<a href="{{ link }}" target="_blank" rel="noopener noreferrer">
-									<span class="fa-stack fa-lg">
-                                        <i class="fas fa-circle fa-stack-2x"></i>
-                                        <i class="fab fa-{{ icon }} fa-stack-1x fa-inverse"></i>
-                                    </span>
-								</a>
-							
-						{% endfor %}
-						<div class="small text-center text-muted fst-italic">&copy;{{ 'now' | date('Y') }}&nbsp;{{ site_title }}, All Right Reserved.</div>
+		<div class="small text-center text-muted"><d>&copy;{{ 'now' | date('Y') }}&nbsp;{{ site_title }}, by <a href="https://axcora.my.id/pena/">axcora</a>.</d></div>
 				
 		</footer>
 	</body>
