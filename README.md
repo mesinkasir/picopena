@@ -47,6 +47,7 @@ Backend pico edit
 ### Work
 
 + Copy and paste pena template folder to pico/themes
++ Copy and paste pena content folder to pico/content
 + Copy and paste all file plugin folder pico_edit and 10-pagination to pico/plugins
 
 ---------------
